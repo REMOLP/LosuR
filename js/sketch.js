@@ -1,6 +1,3 @@
-console.log("Hello from JS console! :D");
-
-
 function setup() {
   createCanvas(400, 400);
 }
